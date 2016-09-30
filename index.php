@@ -1,2 +1,2 @@
 <?php
-print "Test for Snapchat server 1111";
+print "Test for Snapchat server 222222";
